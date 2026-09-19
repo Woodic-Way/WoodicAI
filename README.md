@@ -106,10 +106,10 @@ The app supports free services such as **Groq**, **Google Gemini**, **Cloudflare
 - [x] Multiple simultaneous chats
 - [x] Code display with copy button
 - [x] Automatic fallback
-- [ ] Speech-to-Text input
-- [ ] PDF support
-- [ ] Conversation search
-- [ ] Local model support
+- [x] Speech-to-Text input
+- [x] PDF support
+- [x] Conversation search
+- [x] Local model support
 
 ---
 
@@ -135,7 +135,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Woodic AI** — Made with ❤️ for Persian speakers
 
-- 💬 Telegram: [@MatinSenPaii](https://t.me/MatinSenPaii)
+- 💬 Telegram: [@WoodicWay](https://t.me/WoodicWay)
 
 ---
 
